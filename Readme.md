@@ -16,3 +16,14 @@ git commit -m "first commit"
 **to push commits to remote github**
 ```
 git push
+
+
+Mac Terminal Commnads
+=====
+
+```
+cd ~/Documents/Project
+pwd
+cd ..
+ls -a
+```
