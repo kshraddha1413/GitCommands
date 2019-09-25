@@ -16,7 +16,7 @@ git commit -m "first commit"
 **to push commits to remote github**
 ```
 git push
-
+```
 
 Mac Terminal Commnads
 =====
@@ -27,3 +27,13 @@ pwd
 cd ..
 ls -a
 ```
+
+Eclispe Shortcuts
+=====
+
+```
+CMD + Shft + F
+CMD + D
+CMD + ALT + R
+```
+
