@@ -36,4 +36,6 @@ CMD + Shft + F
 CMD + D
 CMD + ALT + R
 ```
-
+Spring
+=====
+IOC -Inversion Of Control
