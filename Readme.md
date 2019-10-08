@@ -1,6 +1,11 @@
 Git commands
 =====
 
+How to close git repo
+
+```
+git clone https://github.com/kshraddha1413/JavaBasics.git
+```
 
 **to add a file or move file from working directory to stagging**
 
