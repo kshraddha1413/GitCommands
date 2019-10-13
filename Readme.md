@@ -33,6 +33,14 @@ cd ..
 ls -a
 ```
 
+How to kill port on windows
+```
+netstat -a -o -n | findstr <port number>
+netstat -a -o -n | findstr 8080
+taskkill  /F  /PID  6164
+```
+
+
 Eclispe Shortcuts
 =====
 
